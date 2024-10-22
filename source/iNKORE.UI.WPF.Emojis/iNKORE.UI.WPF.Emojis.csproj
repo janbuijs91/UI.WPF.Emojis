@@ -98,7 +98,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <PackageReference Include="iNKORE.UI.WPF" Version="1.0.0.2" />
+	  <PackageReference Include="iNKORE.UI.WPF" Version="1.2.7.1" />
 	</ItemGroup>
 	<ItemGroup>
 		<Resource Include="Resources\Shaders\TintEffect.ps" />
