@@ -71,7 +71,7 @@ namespace Typography.OpenFont
 
             //Version 1:
             //Version 1 was first specified concurrent with Unicode 1.1,
-            //and bit assigments were defined for bits 0 to 69 only. With fonts that have a version 1 table, 
+            //and bit assignments were defined for bits 0 to 69 only. With fonts that have a version 1 table, 
             //some applications might recognize only bits 0 to 69.
 
             //Also, version 1 was specified with some bit assignments that did not correspond to a well-defined Unicode range:
